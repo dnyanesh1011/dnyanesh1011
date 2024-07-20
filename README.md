@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dnyanesh</h1>
-<h3 align="center">Blockchain Enthusiast | Web3 & Crypto Dev | Computer Graphics</h3>
+<h3 align="center">Empowering Decentralization | Blockchain Enthusiast | Web3 & Crypto Dev | Computer Graphics</h3>
 
 <!-- Image in landscape mode centered below the header -->
 <p align="center">
   <img alt="Coding" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY0OXQyNTBjNXpxOTU3OHRla3k5d3hzM3BjaTN5eDdzdDJ1dGd4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" />
 </p>
+
+<p align="left"> <a href="https://twitter.com/dfulsundar77984" target="blank"><img src="https://img.shields.io/twitter/follow/dfulsundar77984?logo=twitter&style=for-the-badge" alt="dfulsundar77984" /></a> </p>
+
 - 🌱 I’m currently learning **Data Structure & Algorithm | Computer Graphics**
 - 👯 I’m looking to collaborate on **Blockchain, Crypto, and Web3 Projects**
 - 🤝 I’m looking for help with **DSA | Web Dev | Web Application**
