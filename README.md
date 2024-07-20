@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dnyanesh</h1>
-<h3 align="center">Blockchain Enthusiast | Passionate about Developing & Coding Solutions</h3>
+<h3 align="center">Exploring the Boundaries of Technology</h3>
 
 <!-- Image in landscape mode centered below the header -->
 <p align="center">
