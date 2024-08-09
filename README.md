@@ -5,6 +5,10 @@
   <img alt="Animation" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5meTQ3em5sbG05bjJmeXRvNWRoZXR0emo0aG5sczlwamN4MXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KR5Rpkiug3t5xqQnqc/giphy.gif" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden;" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="GitHub Profile Trophies" />
+</p>
+
 <p align="left"> 
   <a href="https://twitter.com/dfulsundar77984" target="blank"><img src="https://img.shields.io/twitter/follow/dfulsundar77984?logo=twitter&style=for-the-badge" alt="" /></a> 
 </p>
