@@ -16,7 +16,7 @@
 - 🤝 I’m looking for help with **DSA | Web Dev | Web Application**
 - 💬 Ask me about **C++ | JavaScript | Python | HTML | CSS3**
 - 📫 How to reach me **dnyaneshwarxi@gmail.com**
-- ⚡ Fun fact: **I am Currently Enhancing My Knowledge in Data Structures, Computer Graphics, and C++**
+- ⚡ Fun fact: **I am Currently Enhancing My Knowledge in Data Structures, Computer Graphics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
