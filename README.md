@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the Boundaries of Technology</h3>
 
 <p align="center">
-  <img alt="Animation" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5meTQ3em5sbG05bjJmeXRvNWRoZXR0emo0aG5sczlwamN4MXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KR5Rpkiug3t5xqQnqc/giphy.gif" 
+  <img alt="Animation" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5meTQ3em5sbG05bjJmeXRvNWRoZXR0emo0aG5sczlwamN4MXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KR5Rpkiug3t5xqQnqc/giphy.gif" 
        style="border-radius: 50% !important; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); overflow: hidden;" />
 </p>
 
