@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Dnyanesh</h1>
-<h3 align="center">🚀 Exploring the Boundaries of Technology 🌌</h3>
+<h3 align="center">Arranging 0s & 1s in just the right manner</h3>
 
 <p align="center">
   <img alt="Animation" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5meTQ3em5sbG05bjJmeXRvNWRoZXR0emo0aG5sczlwamN4MXYycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KR5Rpkiug3t5xqQnqc/giphy.gif" 
@@ -18,20 +18,16 @@
   <li>📫 <b>Reach Me At:</b> <a href="mailto:dnyaneshwarxi@gmail.com">dnyaneshwarxi@gmail.com</a></li>
   <li>⚡ <b>Fun Fact:</b> Currently enhancing my knowledge in <em>Data Structures and Computer Graphics</em></li>
 </ul>
-
-<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://twitter.com/dfulsundar77984" target="_blank">
-    <img src="https://media.giphy.com/media/jnFK5iTFMgbUspUK8q/giphy.gif" alt="Twitter" height="40" width="40" />
+  <img src="https://komarev.com/ghpvc/?username=dnyanesh1011&label=Profile%20views&color=0e75b6&style=flat" alt="dnyanesh1011" />
+</p>
+<h3 align="left" style="color: #FF69B4;">🌐 Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dnyaneshwar-fulsundar-37ba77277/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/dnyaneshwar-fulsundar-37ba77277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://media.giphy.com/media/QyJ0We4GHpjBa55K8r/giphy.gif" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/dnyaneshwarxi" target="_blank">
-    <img src="https://media.giphy.com/media/U8xWzoCziwVXY45yT2/giphy.gif" alt="HackerRank" height="40" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/dnyaneshxi" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg1Yzd5NTBhZjc5dmRkM3B4dHBjOG42N3dmamF0Z3dpODk4eXpiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1HqHfbudAOhVIRrVx/giphy.gif" alt="LeetCode" height="40" width="40" />
+  <a href="https://leetcode.com/dnyaneshxi" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
 
@@ -57,6 +53,8 @@
   </a> 
 </p>
 
+<h3 align="center" style="color: #8A2BE2;">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=highcontrast" alt="dnyanesh1011" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=radical" alt="GitHub Streak" style="border-radius: 8px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);" />
 </p>
+
