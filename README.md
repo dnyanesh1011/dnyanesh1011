@@ -71,27 +71,24 @@
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![HP Laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
 
-</div>
+
 
 <!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=dnyanesh1011&theme=react-dark)  -->
 
 ## Connect with Me
 
-<p align="left">
 <a href="https://x.com/dnyanesh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dnyanesh-f-37ba77277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26663464/dnyanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 <a href="https://leetcod.com/u/dnyaneshxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 <a href="(https://discordapp.com/users/dnyaneshxi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
-</p>
+
+</div>
 
 <p align="center">
-
 <!-- <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dnyanesh1011&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> -->
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnyanesh1011&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-
 </p>
   
 <p align="center">
