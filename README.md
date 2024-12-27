@@ -20,7 +20,7 @@
   </a>
 </p> -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 90cm; height: 100vh;">
-  <a href="https://leetcode.com/log1/" style="text-decoration: none;">
+  <a href="https://leetcode.com/u/dnyaneshxi/" style="text-decoration: none;">
     <img src="https://leetcard.jacoblin.cool/dnyanesh1011?theme=dark&font=Ubuntu&ext=contest" 
          alt="Dnyaneshwar Fulsundar's LeetCode Profile" 
          style="height: 316px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
