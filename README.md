@@ -80,10 +80,10 @@
 -->
 ## 👨‍💻 Workspace
 
-![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+<!-- ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![HP Laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-
+-->
+![Asus Laptop](https://img.shields.io/badge/asus%20laptop-0096D6?style=for-the-badge&logo=asus&logoColor=white)
 
 
 <!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=dnyanesh1011&theme=react-dark)  -->
