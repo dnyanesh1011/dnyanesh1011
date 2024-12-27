@@ -73,7 +73,7 @@
 
 </div>
 
-<!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=react-dark)  -->
+<!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=dnyanesh1011&theme=react-dark)  -->
 
 ## Connect with Me
 
@@ -104,23 +104,23 @@
 <!--
 <p align="left">
 
-<img align="center" height="180px" width="450" src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
+<img align="center" height="180px" width="450" src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dnyanesh's Github Stats">
 
   <a href="https://github.com/dnyanesh1011">
   <img align="center" height="180px" width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh1011&layout=compact&&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
 </a>
     </p>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Dnyanesh's Github Stats">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=18-RAJAT&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=react)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
  <hr/>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-  (https://github.com/18-RAJAT/github-readme-activity-graph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TechNew-Informatica-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/18-RAJAT/sass-landing-css.maps)
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyanesh1011&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  (https://github.com/dnyanesh1011/github-readme-activity-graph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TechNew-Informatica-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/dnyanesh1011/sass-landing-css.maps)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=TIC-TAC-TOE&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,6b3eff,22272E,22272E&icon_color=6B3EFFF&hide_border=true)](https://github.com/LeonardoHetx/TIC-TAC-TOE)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=Cristal-Imoveis-WS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/Cristal-Imoveis-WS)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoHetx&repo=30-DAYS-CSS&title_color=C0ACFF&text_color=C0ACFF&bg_color=10,22272E,22272E,6b3eff&icon_color=6B3EFF&hide_border=true)](https://github.com/LeonardoHetx/30-DAYS-CSS)
