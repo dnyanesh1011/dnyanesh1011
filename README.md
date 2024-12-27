@@ -14,18 +14,30 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
 </p>
 
-<!--<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Dnyanesh+Fulsundar" alt="Introduction">
   </a>
 </p> -->
 
-## Coding Profiles📈
+<div style="display: flex; gap: 20px; align-items: center;">
+  <a href="https://leetcode.com/log1/" style="text-decoration: none;">
+    <img src="https://leetcard.jacoblin.cool/dnyanesh1011?theme=dark&font=Ubuntu&ext=contest" 
+         alt="Dnyaneshwar Fulsundar's LeetCode Profile" 
+         style="height: 316px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  </a>
+  <a href="https://app.daily.dev/dnyaneshxi" style="text-decoration: none;">
+    <img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" 
+         alt="Dnyanesh's Dev Card" 
+         style="height: 316px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+  </a>
+</div>
 
-<a href="https://leetcode.com/log1/">
-<img height="316" src="https://leetcard.jacoblin.cool/dnyanesh1011?theme=dark&font=Ubuntu&ext=contest" alt="Dnyaneshwar Fulsundar"/>
-</a>
-<a href="https://app.daily.dev/dnyaneshxi"><img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" width="356" alt="Dnyanesh's Dev Card"/></a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</p>
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 
@@ -56,7 +68,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+<!--
 ## SOCIAL
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -64,7 +76,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
+-->
 ## 👨‍💻 Workspace
 
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
