@@ -56,8 +56,8 @@
 ## 👩‍💻 IDE
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) -->
 
 ## LANGUAGES
 
@@ -90,11 +90,11 @@
 
 ## Connect with Me
 
-<a href="https://x.com/dnyanesh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
+<a href="https://x.com/dnyaneshxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dnyanesh-f-37ba77277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26663464/dnyanesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
-<a href="https://leetcod.com/u/dnyaneshxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
-<a href="(https://discordapp.com/users/dnyaneshxi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/dnyaneshxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/dnyaneshxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 
 </div>
 
