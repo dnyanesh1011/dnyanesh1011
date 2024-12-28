@@ -101,12 +101,12 @@
 <p align="center">
 <!-- <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dnyanesh1011&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnyanesh1011&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnyanesh1011&theme=github_dark&hide_border=true"  width="64%" alt="Dnyanesh Fulsundar"/></a>
 </p>
   
 
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Dnyanesh Fulsundar"/></a>
-<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dnyanesh Fulsundar"/></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Dnyanesh Fulsundar"/>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dnyanesh Fulsundar"/>
 
 <!-- ## Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnyanesh1011&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats) -->
