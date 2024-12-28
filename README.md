@@ -147,3 +147,6 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p> -->
+<!-- ![Visitor Count](https://visitcount.itsvg.in/api?id=dnyanesh1011&color=1) -->
+## vIsItOr CoUnT ^_^
+![Visitor Count](https://profile-counter.glitch.me/{dnyanesh1011}/count.svg)
