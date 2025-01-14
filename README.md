@@ -106,11 +106,15 @@
   
 
 <p align="center">
-<a href="https://github.com/dnyanesh1011"><img src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Dnyanesh Fulsundar"/></a>
-<a href="https://github.com/dnyanesh1011"><img src="https://github-readme-streak-stats.herokuapp.com?user=dnyanesh1011&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="Dnyanesh Fulsundar"/></a>
-
-<!-- ## Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnyanesh1011&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats) -->
+  <a href="https://github.com/dnyanesh1011">
+    <img src="https://github-readme-stats.vercel.app/api?username=dnyanesh1011&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="Dnyanesh Fulsundar"/>
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="This is github API issue !! (click me)"/>
+  </a>
+</p>
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnyanesh1011&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats)
 
 <!--
 <p align="left">
