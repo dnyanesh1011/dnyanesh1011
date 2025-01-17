@@ -19,12 +19,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=0ACDFC&size=35&width=750&duration=6969&lines=Hi+there+,I'm+Dnyanesh+Fulsundar" alt="Introduction">
   </a>
 </p> -->
+<!--
 <div style="display: flex; justify-content: center; align-items: center; gap: 90cm; height: 100vh;">
   <a href="https://leetcode.com/u/dnyaneshxi/" style="text-decoration: none;">
     <img src="https://leetcard.jacoblin.cool/dnyanesh1011?theme=dark&font=Ubuntu&ext=contest" 
          alt="Dnyaneshwar Fulsundar's LeetCode Profile" 
          style="height: 316px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
+  -->
   <a href="https://app.daily.dev/dnyaneshxi" style="text-decoration: none;">
     <img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" 
          alt="Dnyanesh's Dev Card" 
