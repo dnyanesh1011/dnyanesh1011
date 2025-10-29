@@ -115,6 +115,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnyanesh1011&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="This is github API issue !! (click me)"/>
   </a>
 </p>
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnyanesh1011&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats)
 
@@ -154,5 +155,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p> -->
 <!-- ![Visitor Count](https://visitcount.itsvg.in/api?id=dnyanesh1011&color=1) -->
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnzziex6tqj25ajrx5jea4q2li&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=050505&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnzziex6tqj25ajrx5jea4q2li&redirect=true)
+
+
 ## vIsItOr CoUnT ^_^
 ![Visitor Count](https://profile-counter.glitch.me/{dnyanesh1011}/count.svg)
