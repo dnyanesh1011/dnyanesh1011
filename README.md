@@ -29,7 +29,7 @@
   -->
   
 [<img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" width="300" height="450"/>](https://app.daily.dev/dnyaneshxi)
-<img width="40"/>
+<img width="60"/>
 [<img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001119.3aa7509371a34aa29539233c428ceab6.1520" width="300" height="450"/>](https://music-profile.rayriffy.com)
 
 
