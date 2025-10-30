@@ -27,11 +27,12 @@
          style="height: 316px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </a>
   -->
-  <a href="https://app.daily.dev/dnyaneshxi" style="text-decoration: none;">
-    <img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" 
-         alt="Dnyanesh's Dev Card" 
-         style="height: 316px; width: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
-  </a>
+  
+[<img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" width="300" height="450"/>](https://app.daily.dev/dnyaneshxi)
+<img width="400"/> <!-- adds space -->
+[<img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001119.3aa7509371a34aa29539233c428ceab6.1520" width="300" height="450"/>](https://music-profile.rayriffy.com)
+
+
 </div>
 
 
@@ -158,8 +159,9 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnzziex6tqj25ajrx5jea4q2li&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=050505&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dnzziex6tqj25ajrx5jea4q2li&redirect=true)
-
-
 ## vIsItOr CoUnT ^_^
 ![Visitor Count](https://profile-counter.glitch.me/{dnyanesh1011}/count.svg)
+
+
+
+<!--[![Dnyanesh Fulsundar profile views](https://u8views.com/api/v1/github/profiles/170419176/views/day-week-month-total-count.svg)](https://u8views.com/github/dnyanesh1011) -->
