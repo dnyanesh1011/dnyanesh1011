@@ -31,9 +31,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://app.daily.dev/dnyaneshxi">
-        <img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=default&r=6tt" 
-             alt="Dnyanesh's Dev Card" width="300" />
+      <a href="https://app.daily.dev/dnyaneshxi"><img src="https://api.daily.dev/devcards/v2/MoW5hytJE5lPdyk3jA5vR.png?type=wide&r=yg5" width="652" alt="Dnyanesh's Dev Card"/></a>
       </a>
     </td>
     <!-- <td>
