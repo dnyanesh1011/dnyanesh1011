@@ -36,10 +36,16 @@
              alt="Dnyanesh's Dev Card" width="300" />
       </a>
     </td>
-    <td>
+    <!-- <td>
       <a href="https://music-profile.rayriffy.com">
         <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001119.3aa7509371a34aa29539233c428ceab6.1520" 
              alt="Apple Music GitHub profile" width="300" />
+      </a>
+    </td> -->
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31thengjpjijycsmw4abpy52dhzq&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31thengjpjijycsmw4abpy52dhzq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true" 
+             alt="Spotify Profile" width="300" />
       </a>
     </td>
   </tr>
