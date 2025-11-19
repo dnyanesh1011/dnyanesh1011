@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="animation.gif" width="35%" alt="Animation">
-</p>
-
 <p align="center" style="font-size: medium; color: #447ff7;">
   <img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" alt="Header Image">
 </p>
@@ -48,8 +44,6 @@
     </td>
   </tr>
 </table>
-
-
 </div>
 
 
@@ -61,7 +55,7 @@
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-
+<!--
 <ul>
   <li>🌱 <b>Currently Learning:</b> <em>Data Structures & Algorithms | Computer Graphics</em></li>
   <li>👯 <b>Looking to Collaborate on:</b> Blockchain, Crypto, and dApplication Projects</li>
@@ -70,44 +64,214 @@
   <li>📫 <b>Reach Me At:</b> <a href="mailto:dnyaneshwarxi@gmail.com">dnyaneshwarxi@gmail.com</a></li>
   <li>⚡ <b>Fun Fact:</b> Currently enhancing my knowledge in <em>Data Structures and Computer Graphics</em></li>
 </ul>
-
+-->
 <div align="center">
 
-## 👩‍💻 IDE
+### 🧩 Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50"/><br>Kotlin</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="50"/><br>Go</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="50"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="50"/><br>Ruby</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="50"/><br>Rust</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" width="50"/><br>Dart</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift" width="50"/><br>Swift</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="50"/><br>Solidity</td>
+  </tr>
+</table>
+</div>
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<!-- ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) -->
+<div align="center">
+  
+  ###  Frontend
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br>React</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="50"/><br>Vue</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="50"/><br>Angular</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="50"/><br>Three.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=htmx" width="50"/><br>HTMX</td>
+  </tr>
+</table>
+</div>
 
-## LANGUAGES
+<div align="center">
+  
+###  Backend / Frameworks
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="50"/><br>Django</td>
+  </tr>
+</table>
+</div>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<!--
-## SOCIAL
+<div align="center">
+  
+###  Mobile
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="50"/><br>Android Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>Flutter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="50"/><br>Kotlin</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift" width="50"/><br>Swift</td>
+  </tr>
+</table>
+</div>
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
--->
-## 👨‍💻 Workspace
+<div align="center">
+  
+###  Cloud / DevOps
+  
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50"/><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="50"/><br>Azure</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>GCP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="50"/><br>Cloudflare</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=heroku" width="50"/><br>Heroku</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="50"/><br>NPM</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="50"/><br>Bash</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="50"/><br>PowerShell</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gitlab" width="50"/><br>GitLab</td>
+  </tr>
+</table>
+</div>
 
-<!-- ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
--->
-![Asus Laptop](https://img.shields.io/badge/asus%20laptop-0096D6?style=for-the-badge&logo=asus&logoColor=white)
 
+<div align="center">
+  
+###  Databases
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cassandra" width="50"/><br>Cassandra</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>Firebase</td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  
+###  Tools / IDEs
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="50"/><br>Visual Studio</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="50"/><br>IntelliJ</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=phpstorm" width="50"/><br>PHPStorm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=clion" width="50"/><br>CLion</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pycharm" width="50"/><br>PyCharm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="50"/><br>Sublime</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eclipse" width="50"/><br>Eclipse</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=replit" width="50"/><br>Replit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=obsidian" width="50"/><br>Obsidian</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=notion" width="50"/><br>Notion</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=md" width="50"/><br>Markdown</td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+  
+###  Operating Systems
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="50"/><br>Windows</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="50"/><br>Ubuntu</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kali" width="50"/><br>Kali Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/><br>Raspberry Pi</td>
+  </tr>
+</table>
+</div>
+
+
+<div align="center">
+  
+### 💬 Social
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://stackoverflow.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=stackoverflow" width="50"/><br>StackOverflow
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" width="50"/><br>Instagram
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=twitter" width="50"/><br>Twitter
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mail.google.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>Gmail
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discord.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=discord" width="50"/><br>Discord
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
 
 <!-- ![Top Graph](https://activity-graph.herokuapp.com/graph?username=dnyanesh1011&theme=react-dark)  -->
-
+<!--
 ## Connect with Me
 
 <a href="https://x.com/dnyaneshxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
@@ -117,6 +281,7 @@
 <a href="https://discordapp.com/users/dnyaneshxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dnyanesh Fulsundar" height="30" width="40" /></a>
 
 </div>
+-->
 
 <p align="center">
 <!-- <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dnyanesh1011&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
