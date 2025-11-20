@@ -235,29 +235,29 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://stackoverflow.com/" target="_blank">
+      <a href="https://stackoverflow.com/users/26663464/dnyanesh" target="_blank">
         <img src="https://skillicons.dev/icons?i=stackoverflow" width="50"/><br>StackOverflow
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/" target="_blank">
+      <a href="https://www.linkedin.com/in/dnyaneshfulsundar/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="50"/><br>LinkedIn
       </a>
     </td>
     <td align="center">
-      <a href="https://www.instagram.com/" target="_blank">
+      <a href="https://www.instagram.com/dxh_3.1415" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" width="50"/><br>Instagram
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://twitter.com/" target="_blank">
+      <a href="https://twitter.com/dnyanesh" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" width="50"/><br>Twitter
       </a>
     </td>
     <td align="center">
-      <a href="https://mail.google.com/" target="_blank">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dnyaneshwarxi@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" width="50"/><br>Gmail
       </a>
     </td>
